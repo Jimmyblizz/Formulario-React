@@ -4,10 +4,10 @@ Esse projeto foi criado para compreender as estruturas dos arquivos. Removendo v
 
 ## Estrutura dos arquivos
 
-Dentro de Botao-React encontrará os seguintes arquivos.
+Dentro de Formulario-React encontrará os seguintes arquivos.
 
 ```
-Botao-React
+Formulario-React
 │
 ├── public
 │   ├──apple-icon.png
